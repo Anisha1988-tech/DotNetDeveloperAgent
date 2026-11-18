@@ -1,6 +1,0 @@
-@DeveloperAgent.Api_HostAddress = http://localhost:5147
-
-GET {{DeveloperAgent.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
